@@ -6,6 +6,7 @@ let manejadorEstudiante = {
        let arrayEstudiantes = JSON.parse(jsonEstudiantes);
        /*agrego funcionalidad x a la importacion
        modifico algo preexitente 
+       fixeo un bug
         */
        return arrayEstudiantes;
     },
