@@ -9,3 +9,5 @@ let estudiantesCTDMasDe30 = manejadorEstudiante.filtrarMayoresDe(30, estudiantes
 console.log(estudiantesCTD);
 
 console.log(estudiantesCTDMasDe30);
+
+console.log("commit de muestra para checkout");
