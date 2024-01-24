@@ -4,7 +4,9 @@ let manejadorEstudiante = {
     importar: function(curso) {
        let jsonEstudiantes = fs.readFileSync( __dirname + `/estudiantes${curso}.json`, 'utf-8' );
        let arrayEstudiantes = JSON.parse(jsonEstudiantes);
-       /*agrego funcionalidad x a la importacion*/
+       /*agrego funcionalidad x a la importacion
+       modifico algo preexitente 
+        */
        return arrayEstudiantes;
     },
     filtrarMayoresDe: function (edad, estudiantes) {
