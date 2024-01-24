@@ -1,0 +1,52 @@
+[
+    {
+      "nombre": "Luis",
+      "apellido": "Hernández",
+      "edad": 28,
+      "curso": "Certified Tech Developer",
+      "aprobado": true
+    },
+    {
+      "nombre": "Carmen",
+      "apellido": "Gutiérrez",
+      "edad": 32,
+      "curso": "Certified Tech Developer",
+      "aprobado": false
+    },
+    {
+      "nombre": "Fernando",
+      "apellido": "Mendoza",
+      "edad": 25,
+      "curso": "Certified Tech Developer",
+      "aprobado": true
+    },
+    {
+      "nombre": "Claudia",
+      "apellido": "Ramírez",
+      "edad": 29,
+      "curso": "Certified Tech Developer",
+      "aprobado": false
+    },
+    {
+      "nombre": "Adrián",
+      "apellido": "Vargas",
+      "edad": 26,
+      "curso": "Certified Tech Developer",
+      "aprobado": true
+    },
+    {
+      "nombre": "Natalia",
+      "apellido": "Soto",
+      "edad": 27,
+      "curso": "Certified Tech Developer",
+      "aprobado": false
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "Rojas",
+      "edad": 31,
+      "curso": "Certified Tech Developer",
+      "aprobado":false
+    }
+]
+  

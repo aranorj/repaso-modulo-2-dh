@@ -1,0 +1,87 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "García",
+      "edad": 25,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "María",
+      "apellido": "López",
+      "edad": 30,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "edad": 22,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Sánchez",
+      "edad": 28,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    },
+    {
+      "nombre": "Alejandro",
+      "apellido": "Fernández",
+      "edad": 24,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "edad": 26,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    },
+    {
+      "nombre": "David",
+      "apellido": "Gómez",
+      "edad": 29,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "Elena",
+      "apellido": "Pérez",
+      "edad": 23,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    },
+    {
+      "nombre": "Miguel",
+      "apellido": "Hernández",
+      "edad": 27,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Díaz",
+      "edad": 31,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Alvarez",
+      "edad": 25,
+      "curso": "Curso intensivo FS",
+      "aprobado": true
+    },
+    {
+      "nombre": "Sara",
+      "apellido": "Torres",
+      "edad": 28,
+      "curso": "Curso intensivo FS",
+      "aprobado": false
+    }
+]
+  
